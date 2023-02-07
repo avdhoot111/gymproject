@@ -1,0 +1,29 @@
+body {
+    background-color: beige;
+}
+.container {
+    background-color: blue;
+}
+header{
+    background-color: brown;
+}
+#navbar {
+    background-color: #brown;
+}
+h1#header {
+    color: rgb(115, 122, 212);
+    float: left;
+    margin-bottom: 20px;
+}
+#navbar ul {
+    list-style: none;
+    float: right;
+    margin-top: 20px;
+}
+#navbar ul li {
+   display: inline;
+}
+#navbar ul li a{
+    text-decoration: none;
+    color: brown;
+}
